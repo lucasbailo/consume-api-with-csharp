@@ -1,0 +1,14 @@
+D:\Desktop\codes\NewScreenSound\bin\Debug\net8.0\NewScreenSound.exe
+D:\Desktop\codes\NewScreenSound\bin\Debug\net8.0\NewScreenSound.deps.json
+D:\Desktop\codes\NewScreenSound\bin\Debug\net8.0\NewScreenSound.runtimeconfig.json
+D:\Desktop\codes\NewScreenSound\bin\Debug\net8.0\NewScreenSound.dll
+D:\Desktop\codes\NewScreenSound\bin\Debug\net8.0\NewScreenSound.pdb
+D:\Desktop\codes\NewScreenSound\obj\Debug\net8.0\NewScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\codes\NewScreenSound\obj\Debug\net8.0\NewScreenSound.AssemblyInfoInputs.cache
+D:\Desktop\codes\NewScreenSound\obj\Debug\net8.0\NewScreenSound.AssemblyInfo.cs
+D:\Desktop\codes\NewScreenSound\obj\Debug\net8.0\NewScreenSound.csproj.CoreCompileInputs.cache
+D:\Desktop\codes\NewScreenSound\obj\Debug\net8.0\NewScreenSound.dll
+D:\Desktop\codes\NewScreenSound\obj\Debug\net8.0\refint\NewScreenSound.dll
+D:\Desktop\codes\NewScreenSound\obj\Debug\net8.0\NewScreenSound.pdb
+D:\Desktop\codes\NewScreenSound\obj\Debug\net8.0\NewScreenSound.genruntimeconfig.cache
+D:\Desktop\codes\NewScreenSound\obj\Debug\net8.0\ref\NewScreenSound.dll
