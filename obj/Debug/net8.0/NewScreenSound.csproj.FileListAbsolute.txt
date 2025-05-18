@@ -12,3 +12,4 @@ D:\Desktop\codes\NewScreenSound\obj\Debug\net8.0\refint\NewScreenSound.dll
 D:\Desktop\codes\NewScreenSound\obj\Debug\net8.0\NewScreenSound.pdb
 D:\Desktop\codes\NewScreenSound\obj\Debug\net8.0\NewScreenSound.genruntimeconfig.cache
 D:\Desktop\codes\NewScreenSound\obj\Debug\net8.0\ref\NewScreenSound.dll
+D:\Desktop\codes\NewScreenSound\obj\Debug\net8.0\NewScreenSound.sourcelink.json
